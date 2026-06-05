@@ -62,6 +62,13 @@
 
 - [Mingyueyixi/MaskWechat](https://github.com/Mingyueyixi/MaskWechat)
 
+## 📢 官方群组
+- [MaskWechat](https://t.me/MaskWechat2)
+
+- 本模块目前完全免费使用
+
+- 如果你是付费购买的，请联系售后退款
+  
 ---
 
 ## ⚠️ 注意事项

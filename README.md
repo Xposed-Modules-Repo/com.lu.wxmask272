@@ -1,4 +1,4 @@
-# WeChat Privacy / 微信密友模块
+# MaskWechat / 微信密友模块
 
 [![LSPosed](https://img.shields.io/badge/LSPosed-supported-green)](https://modules.lsposed.org/)
 [![Android](https://img.shields.io/badge/Android-8.0+-blue)](https://www.android.com/)

@@ -1,0 +1,7 @@
+id=com.lu.wxmask272
+name=MaskWechat
+version=2.7.2
+versionCode=1009
+author=死亡之舞
+description=隐藏指定微信联系人及其聊天记录、朋友圈与通话请求，保护隐私的 LSPosed 模块
+icon=icon.png

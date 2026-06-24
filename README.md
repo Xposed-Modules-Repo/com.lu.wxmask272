@@ -17,7 +17,7 @@
 5. 长按「开启」即可进入密友管理界面
 
 📢 官方频道：[https://t.me/MaskWechat3](https://t.me/MaskWechat3)
-📢 官方群组： [MaskWechat](https://t.me/MaskWechat2)
+📢 官方群组：[MaskWechat](https://t.me/MaskWechat2)
 
 
 ---

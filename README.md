@@ -4,7 +4,7 @@
 [![Android](https://img.shields.io/badge/Android-8.0+-blue)](https://www.android.com/)
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-blue.svg)](https://t.me/MaskWechat3)
 
-这是一个 **微信 Xposed / LSPosed 模块**，用于保护隐私，将指定联系人设置为“密友”，并在微信各处隐藏其存在。
+这是一个 免费的**微信 Xposed / LSPosed 模块**，用于保护隐私，将指定联系人设置为“密友”，并在微信各处隐藏其存在。
 
 ---
 
@@ -78,6 +78,7 @@
 - 支持 **免Root + LSPosed**
 - 不同微信构建版本可能导致功能异常
 - 若无法使用，请确认微信版本号及 SHA1 是否匹配官方包
+- 加入我们的频道及群组反馈你的微信版本添加适配,理论支持所有8.0.65及以上所有版本
 
 ## 免责声明
 

@@ -15,7 +15,10 @@
 3. 重启手机或重启微信
 4. 打开微信 → **我 → 设置 → 更多 → 关怀模式**
 5. 长按「开启」即可进入密友管理界面
+6. **搜索框输入：#hide**
 
+
+   
 📢 官方频道：[https://t.me/MaskWechat3](https://t.me/MaskWechat3)
 
 📢 官方群组：[lnkhide](https://t.me/MaskWechat2)

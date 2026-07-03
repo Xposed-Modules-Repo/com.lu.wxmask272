@@ -1,4 +1,4 @@
-# lnkhide / 微信密友模块
+# Inkhide / 微信密友模块
 
 [![LSPosed](https://img.shields.io/badge/LSPosed-supported-green)](https://modules.lsposed.org/)
 [![Android](https://img.shields.io/badge/Android-8.0+-blue)](https://www.android.com/)
@@ -21,7 +21,7 @@
    
 📢 官方频道：[https://t.me/MaskWechat3](https://t.me/MaskWechat3)
 
-📢 官方群组：[lnkhide](https://t.me/MaskWechat2)
+📢 官方群组：[Inkhide](https://t.me/MaskWechat2)
 
 
 ---
@@ -68,7 +68,7 @@
 - [Mingyueyixi/MaskWechat](https://github.com/Mingyueyixi/MaskWechat)
 
 ## 📢 官方群组
-- [lnkhide](https://t.me/MaskWechat2)
+- [Inkhide](https://t.me/MaskWechat2)
 
 - 本模块目前完全免费使用
 
@@ -92,5 +92,5 @@
 - 一切使用本模块进行违法活动的行为，与开发者无关，后果自负
 - 一切开发旨在学习，请勿用于非法用途
 - **鉴于项目的特殊性，开发团队可能随时 <ins>停止更新</ins> 或 <ins>删除</ins>项目**
-- 如有侵权请联系[lnkhide](https://t.me/MaskWechat3) 删除
+- 如有侵权请联系[Inkhide](https://t.me/MaskWechat3) 删除
   

@@ -17,13 +17,12 @@
 5. 长按「开启」即可进入密友管理界面
 6. **搜索框输入：#hide**
 
-
    
 📢 官方频道：[https://t.me/MaskWechat3](https://t.me/MaskWechat3)
 
 📢 官方群组：[Inkhide](https://t.me/MaskWechat2)
 
-
+📧 联系邮箱：fabang2026@outlook.com
 ---
 
 ## ✨ 功能特性
@@ -69,6 +68,7 @@
 
 ## 📢 官方群组
 - [Inkhide](https://t.me/MaskWechat2)
+- 📧 联系邮箱：fabang2026@outlook.com
 
 - 本模块目前完全免费使用
 
@@ -92,5 +92,6 @@
 - 一切使用本模块进行违法活动的行为，与开发者无关，后果自负
 - 一切开发旨在学习，请勿用于非法用途
 - **鉴于项目的特殊性，开发团队可能随时 <ins>停止更新</ins> 或 <ins>删除</ins>项目**
-- 如有侵权请联系[Inkhide](https://t.me/MaskWechat3) 删除
+- 如有侵权请联系[Inkhide](https://t.me/MaskWechat3) 删除或联系以下
+- 联系邮箱：fabang2026@outlook.com
   
